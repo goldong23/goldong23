@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<!--
-**goldong23/goldong23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## INTRODUCTION
+안녕하세요! 코딩을 배우고 있습니다.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
