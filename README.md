@@ -7,6 +7,8 @@
 
 ## 🔭 INTEREST
 - 보안, AI, 게임
-  
-<img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/C-FFCA28?style=flat-square&logo=c&logoColor=white"/>
+
+## 📒 STUDY 
+<img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/C-3DDC84?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-3DAC84?style=flat-square&logo=c++&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-FFCA18?style=flat-square&logo=python&logoColor=blue"/>
+
+
