@@ -1,6 +1,7 @@
 
 # INTRODUCTION
 안녕하세요! 코딩을 배우고 있는 대학생입니다.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldong23)](https://github.com/goldong23/github-readme-stats)
 
 ## 📫 BELONGING
 - 영남대학교 컴퓨터학부 컴퓨터공학전공 
